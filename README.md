@@ -1,2 +1,7 @@
 # 2d-minecraft
-this shit took way to long
+
+download the file and extract the folder inside, after that open the index file
+
+# Controls:
+
+Use the arrow keys to move and spacebar to place blocks
